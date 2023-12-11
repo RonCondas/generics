@@ -1,3 +1,11 @@
+/*
+Modify the MyList class that you wrote for Programming Challenge 1 so the type
+parameter T should accept any type that implements the Comparable interface. Test the class in a
+program that creates one instance of MyList to store Integers, and another instance to
+store Strings.
+
+*/
+
 package generics;
 import java.util.ArrayList;
 import java.util.Collections;
